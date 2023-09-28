@@ -14,6 +14,8 @@ body{
   width: 100%;
   background-image: url('/src/assests/2850815.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 
